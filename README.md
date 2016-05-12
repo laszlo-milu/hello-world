@@ -1,2 +1,2 @@
-# hello-world
-I have no idea what I'm doing.
+# please ignore this file
+This README file was created only to finish the tutorial.
